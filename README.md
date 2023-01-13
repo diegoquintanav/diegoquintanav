@@ -2,7 +2,7 @@
 - 👋 Hi, I’m @diegoquintanav
 - 👀 I’m interested in music, comics and board games. I like words.
 - 🌱 I’m currently learning cloud infrastructure and improving on my async game with Python
-- 📫 You can find ways to reach out to me in <diegoquintanav.github.io>
+- 📫 You can find ways to reach out to me in <https://diegoquintanav.github.io>
 
 
 
