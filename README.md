@@ -1,10 +1,10 @@
 # About me
-- 👋 Hi, I’m Diego. I'm from Chile, and I live currently in Barcelona.
-- 👀 I’m interested in music, comics and board games.  
-- 🌱 I’m currently learning a lot about cloud infrastructure and improving on my async game with Python
+- 👋 Hi, I’m Diego. I'm from Chile, and I live currently in Barcelona
+- 👀 I’m into comics and board games, among other things. I like playing, overall
+- 🌱 I’m currently learning a lot about cloud infrastructure and improving on my async game with Python. I'm also leveraging my data engineering skills.
 - 📫 You can find ways to reach out to me in <https://diegoquintanav.github.io> or <https://www.linkedin.com/in/diego-quintana-valenzuela/>
 
-##### GITHUB STATS
+
 ![diegoquintanav's profile counter](https://komarev.com/ghpvc/?username=diegoquintanav)
 
 ![diegoquintanav's GitHub stats](https://github-readme-stats.vercel.app/api?username=diegoquintanav&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
