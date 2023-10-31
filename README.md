@@ -1,7 +1,7 @@
 # About me
 - 👋 Hi, I’m Diego. I'm from Chile, and I live currently in Barcelona
 - 👀 I’m into comics and board games, among other things. I like playing, overall
-- 🌱 I’m currently learning a lot about cloud infrastructure and improving on my async game with Python. I'm also leveraging my data engineering skills.
+- 🌱 I’m currently leveraging my data engineering skills.
 - 📫 You can find ways to reach out to me in <https://diegoquintanav.github.io> or <https://www.linkedin.com/in/diego-quintana-valenzuela/>
 
 
