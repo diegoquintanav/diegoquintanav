@@ -1,6 +1,6 @@
 # About me
 
-Hi 👋 I’m Diego. I’m into comics and board games, among other things. I like playing, overall. You can find ways to reach out to me in <https://diegoquintanav.github.io> or <https://www.linkedin.com/in/diego-quintana-valenzuela/>
+Hi 👋 I’m Diego. I’m into comics and board games, among other things. I like playing, overall. You can reach out to me in <https://diegoquintanav.github.io> or <https://www.linkedin.com/in/diego-quintana-valenzuela/>
 
 ![diegoquintanav's profile counter](https://komarev.com/ghpvc/?username=diegoquintanav)
 
